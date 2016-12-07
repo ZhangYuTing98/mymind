@@ -1,0 +1,10 @@
+[
+    {"src":"img/banner1.png","title":"banner"},
+    {"src":"img/banner2.png","title":"banner"},
+    {"src":"img/banner3.png","title":"banner"},
+    {"src":"img/banner4.png","title":"banner"},
+    {"src":"img/banner5.png","title":"banner"},
+    {"src":"img/banner6.png","title":"banner"},
+    {"src":"img/banner7.png","title":"banner"},
+    {"src":"img/banner8.png","title":"banner"}
+]
